@@ -1,3 +1,3 @@
 (specifications->manifest
  '("px-accounts-service"
-   "px-event-service"))
+   "px-events-service"))
