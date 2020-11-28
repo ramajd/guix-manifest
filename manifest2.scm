@@ -1,5 +1,2 @@
-(use-modules (gnu packages base))
-
-
-(packages->manifest
-   (list hello))
+(specifications->manifest
+ '("px-accounts-service"))
